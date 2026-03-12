@@ -16,7 +16,7 @@
 
 </div>
 
-<sub>An undergraduate who loves to build web applications with Python and JS mostly with Django and React. I love to contribute in open-sources. Currently focusing on front-end, with a dream to wonder the world with awesome UI.</sub>
+<sub>Loves to build applications with Python and JS mostly with Django and NexJS. Love to contribute in open-sources. Currently focusing on front-end.</sub>
 
 <div align="center">
 
